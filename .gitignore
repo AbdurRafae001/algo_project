@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.pdf
+*.xlsx
+simplemaps_worldcities_basicv1.901/
+adjacencyFindingCode*.py
+distanceCalculator.py
+
+# Keep these - they're needed!
+# pak_cities.csv
+# app.py
+# dijkstra.py
+# locations_data.py
+# data_preparation.py
+# requirements.txt
+
